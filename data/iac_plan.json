@@ -1,0 +1,21 @@
+[
+  {
+    "resource": "web",
+    "action": "update",
+    "approved": true,
+    "tags": {
+      "owner": "platform",
+      "environment": "prod",
+      "application": "web"
+    }
+  },
+  {
+    "resource": "database",
+    "action": "delete",
+    "approved": false,
+    "tags": {
+      "owner": "data",
+      "environment": "prod"
+    }
+  }
+]

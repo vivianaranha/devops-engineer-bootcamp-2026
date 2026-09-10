@@ -1,0 +1,12 @@
+[
+  {
+    "version": "1.0.0",
+    "error_rate": 0.003,
+    "p95_latency_ms": 180
+  },
+  {
+    "version": "1.1.0",
+    "error_rate": 0.012,
+    "p95_latency_ms": 260
+  }
+]
